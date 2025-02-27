@@ -11,8 +11,8 @@ export default {
 // Historia para la caja primaria
 export const Primary = {
   args: {
-    OnClick: () => {console.log('Click')},
     label: 'Caja primaria',
+    imgUrl: './assets/discord.svg'
   },
 };
 
